@@ -1,0 +1,20 @@
+# Node.js
+**/node_modules/
+**/dist/
+**/.vite/
+**/.parcel-cache/
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/resume.json  # If you want to ignore saved resumes
+
+# Environment & IDEs
+.env
+*.env
+.vscode/
+.idea/
+.DS_Store
+
+# OS-specific
+Thumbs.db
